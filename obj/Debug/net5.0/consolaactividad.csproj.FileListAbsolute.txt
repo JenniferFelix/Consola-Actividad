@@ -1,0 +1,16 @@
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\consolaactividad.exe
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\consolaactividad.deps.json
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\consolaactividad.runtimeconfig.json
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\consolaactividad.runtimeconfig.dev.json
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\consolaactividad.dll
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\ref\consolaactividad.dll
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\bin\Debug\net5.0\consolaactividad.pdb
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.csproj.AssemblyReference.cache
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.AssemblyInfoInputs.cache
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.AssemblyInfo.cs
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.dll
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\ref\consolaactividad.dll
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.pdb
+C:\Users\jenni\OneDrive\Escritorio\git\consolaactividad\obj\Debug\net5.0\consolaactividad.genruntimeconfig.cache

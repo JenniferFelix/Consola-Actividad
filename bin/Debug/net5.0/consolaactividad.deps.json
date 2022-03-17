@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "consolaactividad/1.0.0": {
+        "runtime": {
+          "consolaactividad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consolaactividad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

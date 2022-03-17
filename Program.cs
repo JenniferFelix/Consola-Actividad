@@ -6,7 +6,10 @@ namespace consolaactividad
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string miNombre;
+            Console.WriteLine("Por favor, escriba su nombre");
+            miNombre = Console.ReadLine( );
+            Console.WriteLine("Hola {0}", miNombre); 
         }
     }
 }
